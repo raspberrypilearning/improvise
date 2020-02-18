@@ -20,8 +20,9 @@ No special hardware or software is required, other than the tools you will need 
 title: What you will learn
 ---
 
-+ Two or three learning objectives
-+ ...should go here
+  - How to create a problem description and definition of users that is useful in creating a technical solution to that problem.
+  - How to set and prioritise goals to create a useable solution quickly.
+  - How to collect and act on user feedback on your solution.
 
 --- /collapse ---
 

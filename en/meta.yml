@@ -7,5 +7,14 @@ copyedit: false
 last_tested: "2020-02-18"
 steps:
   - title: Introduction
-  - title: Step title
-  - title: What next?
+  - title: Define the problem
+  - title: Empathise with your users
+  - title: Set your solution’s goals
+  - title: Generate ideas
+  - title: Design your solution
+  - title: Make a prototype
+  - title: Test your design
+  - title: Build your solution
+  - title: Iterate on your solution
+  - title: Release your solution
+
