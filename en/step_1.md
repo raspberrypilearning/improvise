@@ -1,38 +1,17 @@
 ## Introduction
 
-Add project description here. What will learners be making?
+This project is a bit different: it walks you through the steps of clearly defining a problem and desiging a solution to it using the technical skills you have gained from the other projects on this site. The focus is on scoping, desiging, and testing your solution, it doesn't actually discuss how to build it!
+
+If you've already completed a number of our projects, or are otherwise confident in your technical skills, then this is a project you can do over and over again, choosing a different problem to tackle each time. 
 
 ### What you will make
-
---- no-print ---
-Add instructions for using the embedded content here.
-
-<div class="scratch-preview">
-  <iframe allowtransparency="true" width="485" height="402" src="https://scratch.mit.edu/projects/embed/160619869/?autostart=false" frameborder="0"></iframe>
-</div>
---- /no-print ---
-
---- print-only ---
-![Complete project](images/showcase_static.png)
---- /print-only ---
+Whatever you want!
 
 --- collapse ---
 ---
 title: What you will need
 ---
-### Hardware
-
-+ Describe hardware here
-
-### Software
-
-+ Scratch 2.0 (either [online](http://rpf.io/scratchon) or [offline](http://rpf.io/scratchoff))
-+ Python 3
-+ This project can be completed in a web browser using [trinket.io](https://trinket.io/)
-
-### Downloads
-
-+ [rpf.io/project-name-go](http://rpf.io/project-name-go){:target="_blank"}
+No special hardware or software is required, other than the tools you will need to create the proejct you design. Some paper, pens, and pencils would be useful, if available.
 
 --- /collapse ---
 
@@ -51,8 +30,6 @@ title: What you will learn
 title: Additional information for educators
 ---
 
-If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/project-name/print){:target="_blank"}.
-
-[Here is a link to the resources for this project](http://rpf.io/project-name-go).
+If you need to print this project, please use the [printer-friendly version](https://projects.raspberrypi.org/en/projects/improvise/print){:target="_blank"}.
 
 --- /collapse ---
