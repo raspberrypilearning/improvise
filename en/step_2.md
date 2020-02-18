@@ -12,7 +12,7 @@ title: See an example
 ---
   - Buses in my city can have long gaps between them and are sometimes cancelled or delayed with no notice, potentially leaving  people waiting at bus stops in harsh weather. 
   - It can take up to an hour following the scheduled departure time for the bus company to inform passengers that the bus is not coming, even though there is a ‘real-time’ bus information app. However, passengers at the first stop of the route can be relatively certain that the bus is cancelled within a few minutes. 
-  -The real-time information provided by the bus company also fails to take account of traffic — estimates for arrival time are based only on the distance from the bus to a stop.
+  - The real-time information provided by the bus company also fails to take account of traffic — estimates for arrival time are based only on the distance from the bus to a stop.
   - If passengers early on the route, or already on the bus, could somehow share this information with those waiting at later stops, later passengers could make alternative arrangements (e.g. taking a train) or at least return to shelter while they waited.
 
 --- /collapse ---
